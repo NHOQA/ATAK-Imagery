@@ -18,3 +18,5 @@ important links
 11. In the new tab, there will be many types of imagery to select. Expand out "arial imagery" should be near the top of the list
 12. Then in the "aerial imagery" tree, select "high resolution orthoimagery"
 13. Scroll all the way to the bottom and click the "results" button
+
+Still in work
